@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/c++核心/03栈区.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/c++核心/08引用做函数参数.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/c++核心/09引用做函数的返回值.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/c++核心/13函数的占位参数.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/c++核心/19类和对象_classstruct区别.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/c++核心/25类和对象_拷贝构造函数调用的时机.cpp" charset="GBK" />
+  </component>
+</project>
